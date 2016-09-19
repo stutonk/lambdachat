@@ -5,6 +5,8 @@ This is a simple hobby project undertaken to explore the capabilities of GNU Gui
 ## Usage:
 ./lambdachat [-p --port portnumber]
 
+Note: lambdachat expects the guile binary to be located at /usr/bin/guile
+
 ## System Requirements:
 - GNU Guile
 - 32 color support for the server terminal as well as clients
