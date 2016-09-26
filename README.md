@@ -12,4 +12,5 @@ Note: lambdachat expects the guile binary to be located at /usr/bin/guile
 - 32 color support for the server terminal as well as clients
 
 ## Ideas for the future:
+- Remove ugly global state in userlist
 - Save/read user info in sexp form to/from a separate Scheme file.
