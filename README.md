@@ -13,4 +13,5 @@ Note: lambdachat expects the guile binary to be located at /usr/bin/guile
 
 ## Ideas for the future:
 - Remove ugly global state in userlist
+- Separate things into multiple files and use load?
 - Save/read user info in sexp form to/from a separate Scheme file.
